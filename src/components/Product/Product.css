@@ -17,23 +17,3 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 30px;
 }
-.btn-cart {
-    padding: 8px 20px;
-    border-radius: 10;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-}
-.btn-cart p{
-    margin-right: 5px;
-}
-.btn-cart:hover {
-    border: none;
-    color: white;
-    background-color: brown;
-    border-radius: 10;
-    
-     
-    
-}
